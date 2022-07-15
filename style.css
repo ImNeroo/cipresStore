@@ -1,0 +1,29 @@
+.contactos{
+    background-color: darkslategrey;
+    color: azure;
+    display:block;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.list{
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.list li{
+    list-style: none;
+}
+
+.logo{
+    max-width: 10%;
+    max-height: 10%;
+    height: 16px;
+    width: 16px;
+}
+
+.main-nav{
+    background-color:burlywood;
+    padding: 0;
+    margin: 0 auto;
+}
